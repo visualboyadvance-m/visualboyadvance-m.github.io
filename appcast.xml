@@ -20,11 +20,11 @@
       />
     </item>
     <item>
-      <link>https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.4/visualboyadvance-m-Mac-64bit.zip</link>
       <enclosure
+          url="https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.4/visualboyadvance-m-Mac-64bit.zip"
           sparkle:os="macos"
           sparkle:version="2.1.4"
-          length="0"
+          sparkle:edSignature="" length="0"
           type="application/octet-stream"
       />
     </item>
